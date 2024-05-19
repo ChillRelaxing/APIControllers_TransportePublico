@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIControllers_TransportePublico.props" />
+</Project>
