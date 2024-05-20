@@ -10,9 +10,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddSingleton<IDbDataAccess, DbDataAccess>();
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<IAutobusRepository, AutobusRepository>();
+builder.Services.AddScoped<IRutaRepository, RutaRepository>();
 
 //validations
 builder.Services.AddScoped<IValidator<Usuario>, UsuarioValidator>();
+builder.Services.AddScoped<IValidator<Autobuses>, AutobusValidator>();
+builder.Services.AddScoped<IValidator<Ruta>, RutaValidator>();
+
+
 
 
 builder.Services.AddControllers();

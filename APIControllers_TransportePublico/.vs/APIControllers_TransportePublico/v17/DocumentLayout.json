@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Whilo\\Desktop\\APIControllers_TransportePublico-main\\APIControllers_TransportePublico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE482FD-D677-4A53-AFB1-0E7B5546803C}|APIControllersData\\APIControllersData.csproj|c:\\users\\whilo\\desktop\\apicontrollers_transportepublico-main\\apicontrollers_transportepublico\\apicontrollersdata\\repositories\\rutasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE482FD-D677-4A53-AFB1-0E7B5546803C}|APIControllersData\\APIControllersData.csproj|solutionrelative:apicontrollersdata\\repositories\\rutasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RutasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Whilo\\Desktop\\APIControllers_TransportePublico-main\\APIControllers_TransportePublico\\APIControllersData\\Repositories\\RutasRepository.cs",
+              "RelativeDocumentMoniker": "APIControllersData\\Repositories\\RutasRepository.cs",
+              "ToolTip": "C:\\Users\\Whilo\\Desktop\\APIControllers_TransportePublico-main\\APIControllers_TransportePublico\\APIControllersData\\Repositories\\RutasRepository.cs",
+              "RelativeToolTip": "APIControllersData\\Repositories\\RutasRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:45:49.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
